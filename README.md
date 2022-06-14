@@ -1,5 +1,16 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/107180330/173100035-d6b447d7-841d-4001-9254-01d3ad7be334.svg" width="400" alt="Xyna logo" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://user-images.githubusercontent.com/107180330/173100035-d6b447d7-841d-4001-9254-01d3ad7be334.svg"
+      width="400"
+    />
+    <img
+      alt="Xyna logo"
+      src="https://user-images.githubusercontent.com/107180330/173533108-f8fe97bd-c984-401b-b7ab-0e283ea053e4.svg"
+      width="400"
+    />
+  </picture>
 </div>
 
 Xyna Factory is an automation platform for graphically modeled workflows with a focus on network- / resource-related processes in carrier, provider and large enterprise networks. Invented and originally developed for large, demanding projects at Tier-1 service providers, Xyna was designed and implemented from the beginning with a large-scale and carrier-grade claim. Xyna is a generic platform from which various domain-specific applications can be derived: order management, service provisioning, self-service automation, network abstraction & activation, DHCP & ACS clusters, network intelligence & monitoring platforms – and much more.
