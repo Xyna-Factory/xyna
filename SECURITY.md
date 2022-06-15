@@ -5,7 +5,7 @@
 In accordance to the Apache 2 license-terms, Xyna is offered "as is" and without any guarantee or warranty.
 Although its developers make every reasonable effort to ensure that the product remains free of security vulnerabilities,
 users are ultimately responsible for evaluating each software release and to operate it only in secured environments,
-especially if Xyna is used for network management in critical infrastructures
+especially if Xyna is used for network management in critical infrastructures.
 
 ## Recommendations
 All users responsible for operating Xyna installations are required to apply best practices concerning the secure operation of software, such as:
