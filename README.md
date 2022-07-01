@@ -39,6 +39,10 @@ The best place for feedback, assistance, and other discussion is our GitHub disc
 
 Contributions are always welcome. Please contact us via discussion / direct message if you want to participate. Our community management will be happy to contact you. We want to moderate the further development in the sense of all users qualitatively.
 
+### BUILD
+
+To build the Factory itself or to build the Xyna Modeller, use the Ant scripts from the [installation](https://github.com/GIP-SmartMercial/xyna-factory/tree/main/installation/build) folder.
+
 ### SCREENSHOTS
 
 <img width="1440" alt="Process Modeller Screenshot 01" src="https://user-images.githubusercontent.com/107180330/173103509-3a8ef270-82bd-4dd0-8796-eef9f01b3223.png">
