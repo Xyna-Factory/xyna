@@ -7,7 +7,7 @@
     />
     <img
       alt="Xyna logo"
-      src="https://user-images.githubusercontent.com/107180330/173534052-f29841fd-23d4-4cf8-ab5d-a9b819cf7a2f.svg"
+      src="https://user-images.githubusercontent.com/107180330/173533108-f8fe97bd-c984-401b-b7ab-0e283ea053e4.svg"
       width="400"
     />
   </picture>
