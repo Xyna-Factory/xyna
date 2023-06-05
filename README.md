@@ -41,7 +41,7 @@ Contributions are always welcome. Please contact us via discussion / direct mess
 
 ### BUILD
 
-To build the Factory itself or to build the Xyna Modeller, use the Ant scripts from the [installation](https://github.com/GIP-SmartMercial/xyna-factory/tree/main/installation/build) folder.
+To build the Factory itself or to build the Xyna Modeller, use the Ant scripts from the [installation](https://github.com/Xyna-Factory/xyna-factory/tree/main/installation/build) folder.
 
 ### SCREENSHOTS
 
