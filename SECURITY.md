@@ -26,7 +26,7 @@ you may do so via email. Please note that reported vulnerabilities should meet t
 * It is related to a current release of Xyna
 * It is reproducible following a described set of instructions
 
-Please email a brief description of the suspected bug and instructions for reproduction to [xyna@gip.com](mailto:xyna@gip.com).
+Please email a brief description of the suspected bug and instructions for reproduction to [xyna@gip.com](mailto:xyna@xyna.com).
  
 As Xyna is provided as free and open source software, we do not offer monetary compensation for vulnerability reports,
 however your contribution is appreciated.
